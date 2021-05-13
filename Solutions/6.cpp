@@ -8,7 +8,7 @@ int main(void){
 		for(j=0; j<3; j++){
 			cin>>arr[i][j];
 			if(isOdd(arr[i][j])){
-				trr[i][j]=0;
+				trr[i][j] = !trr[i][j];
 				if(i<2){
 					trr[i+1][j] = !trr[i+1][j];
 				}
