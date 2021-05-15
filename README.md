@@ -15,6 +15,15 @@
  11 |[Panoramix's Prediction](http://codeforces.com/problemset/problem/80/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/11.cpp)|80A
  12 |[Ultra-Fast Mathematician](http://codeforces.com/problemset/problem/61/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/12.cpp)|61A
  13 |[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/13.cpp)|233A
+ 14 |[Arrival of the general](http://codeforces.com/problemset/problem/144/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/14.cpp)|144A
+ 15 |[Drinks](http://codeforces.com/problemset/problem/200/B)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/15.cpp)|200B
+ 16 |[Insomnia cure](http://codeforces.com/problemset/problem/148/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/16.cpp)|148A
+ 17 |[Cupboards](http://codeforces.com/problemset/problem/248/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/17.cpp)|248A
+ 18 |[I_love_\%username\%](http://codeforces.com/problemset/problem/155/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/18.cpp)|155A
+ 19 |[Tram](http://codeforces.com/problemset/problem/116/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/19.cpp)|116A
+ 20 |[Helpful maths](http://codeforces.com/problemset/problem/339/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/20.cpp)|339A
+ 21 |[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/21.cpp)|228A
+ 22 |[Way too long words](http://codeforces.com/problemset/problem/71/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/22.cpp)|71A
  
  
  
