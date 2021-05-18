@@ -1,5 +1,9 @@
 # Competetive programming codechef solutions
 
+<table>
+<tr><th>Part 1</th><th>Part 2</th></tr>
+<tr><td>
+
   **S. no.**   | **problem**  | **solution** | **code**
 ---------------|--------------|--------------|--------------
  1 |[Young Physicist](http://codeforces.com/problemset/problem/69/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/1.cpp)|69A
@@ -32,6 +36,17 @@
  28 |[Team](http://codeforces.com/problemset/problem/231/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/28.cpp)|231A
  29 |[Bit++](http://codeforces.com/problemset/problem/282/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/29.cpp)|282A
  30 |[Effective Approach](http://codeforces.com/problemset/problem/227/B)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/30.cpp)|227B
+ 
+ </td><td>
+ 
+   **S. no.**   | **problem**  | **solution** | **code**
+---------------|--------------|--------------|--------------
+ 1 |[Young Physicist](http://codeforces.com/problemset/problem/69/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/1.cpp)|69A
+ 2 |[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/2.cpp)|263A
+ 
+ </td></tr> </table>
+ 
+ 
  
  
  
