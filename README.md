@@ -24,6 +24,14 @@
  20 |[Helpful maths](http://codeforces.com/problemset/problem/339/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/20.cpp)|339A
  21 |[Is your horseshoe on the other hoof?](http://codeforces.com/problemset/problem/228/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/21.cpp)|228A
  22 |[Way too long words](http://codeforces.com/problemset/problem/71/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/22.cpp)|71A
+ 23 |[Boy or Girl](http://codeforces.com/problemset/problem/236/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/23.cpp)|236A
+ 24 |[Amusing Joke](http://codeforces.com/problemset/problem/141/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/24.cpp)|141A
+ 25 |[Soft Drinking](http://codeforces.com/problemset/problem/151/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/25.cpp)|151A
+ 26 |[HQ9+](http://codeforces.com/problemset/problem/133/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/26.cpp)|133A
+ 27 |[Petya and Strings](http://codeforces.com/problemset/problem/112/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/27.cpp)|112A
+ 28 |[Team](http://codeforces.com/problemset/problem/231/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/28.cpp)|231A
+ 29 |[Bit++](http://codeforces.com/problemset/problem/282/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/29.cpp)|282A
+ 30 |[Effective Approach](http://codeforces.com/problemset/problem/227/B)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/30.cpp)|227B
  
  
  
