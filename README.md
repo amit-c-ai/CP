@@ -64,8 +64,8 @@
 
   **S. no.**   | **problem**  | **solution** | **code**
 ---------------|--------------|--------------|--------------
- 1 |[Young Physicist](http://codeforces.com/problemset/problem/69/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/1.cpp)|69A
- 2 |[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/2.cpp)|263A
+ 1 |[Dragons](https://codeforces.com/problemset/problem/230/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solution%20Folder%203/230-A.cpp)|230A
+
 
  
  </td><td>
