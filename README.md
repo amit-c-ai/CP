@@ -45,6 +45,9 @@
  37 |[Even Odds](http://codeforces.com/problemset/problem/318/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/37.cpp)|318A
  38 |[Little Elephant and Rozdil](http://codeforces.com/problemset/problem/205/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/38.cpp)|205A
  39 |[Hexadecimal's Theorem](http://codeforces.com/problemset/problem/199/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/39.cpp)|199A
+ 40 |[Jeff and Digits](http://codeforces.com/problemset/problem/352/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/40.cpp)|352A
+ 41 |[Xenia and Ringroad](http://codeforces.com/problemset/problem/339/B)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/41.cpp)|339B
+ 42 |[Magic Numbers](http://codeforces.com/problemset/problem/320/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solutions/42.cpp)|320A
  
  </td><td>
  
