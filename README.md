@@ -65,6 +65,7 @@
   **S. no.**   | **problem**  | **solution** | **code**
 ---------------|--------------|--------------|--------------
  1 |[Dragons](https://codeforces.com/problemset/problem/230/A)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solution%20Folder%203/230-A.cpp)|230A
+  2 |[Present from Lena](https://codeforces.com/problemset/problem/118/B)|[Get solution](https://github.com/amit-c-ai/CP/blob/main/Solution%20Folder%203/118-B.cpp)|118B
 
 
  
