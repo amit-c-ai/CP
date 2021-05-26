@@ -1,4 +1,4 @@
-# Competetive programming codechef Solutions%20Folder%201
+# Competetive programming codeforces Solutions
 
 <table>
 <tr><th>Part 1</th><th>Part 2</th></tr>
