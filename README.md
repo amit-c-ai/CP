@@ -57,10 +57,21 @@
 
 <!-- Solution folder 2 -->
 
-   **S. no.**   | **problem**  | **solution** | **code**
----------------|--------------|--------------|--------------
- 1 |[Young Physicist](http://codeforces.com/problemset/problem/69/A)|[Get solution](Solutions%20Folder%201/1.cpp)|69A
- 2 |[Beautiful Matrix](http://codeforces.com/problemset/problem/263/A)|[Get solution](Solutions%20Folder%201/2.cpp)|263A
+| **S.no.** | **problem**                             | **solution**                                                               | **code** |
+| --------- | --------------------------------------- | -------------------------------------------------------------------------- | -------- |
+| 1         | [Eshag Loves Big Arrays][1529a]         | [Get solution](solutions_folder_2/A_Eshag_Loves_Big_Arrays.cpp)         | 1529A    |
+| 2         | [Sifid and Strange Subsequences][1529b] | [Get solution](solutions_folder_2/B_Sifid_and_Strange_Subsequences.cpp) | 1529B    |
+| 3         | [Favourite Sum][102767a]                | [Get solution](solutions_folder_2/A_Favourite_Sum.cpp)                  | 102767A  |
+| 4         | [Most Unstable Array][1353a]            | [Get solution](solutions_folder_2/A_Most_Unstable_Array.cpp)            | 1353A    |
+| 5         | [And Then There Were K][1527a]          | [Get solution](solutions_folder_2/A_And_Then_There_Were_K.cpp)          | 1527A    |
+| 6         | [Phone numbers][25b]                    | [Get solution](solutions_folder_2/B_Phone_numbers.cpp)                  | 25B      |
+| 7         | [Remove a Progression][1194a]           | [Get solution](solutions_folder_2/A_Remove_a_Progression.cpp)           | 1194A    |
+| 8         | [Vus the Cossack and a Contest][1186a]  | [Get solution](solutions_folder_2/A_Vus_the_Cossack_and_a_Contest.cpp)  | 1186A    |
+| 9         | [Nauuo and Votes][1173a]                | [Get solution](solutions_folder_2/A_Nauuo_and_Votes.cpp)                | 1173A    |
+| 10        | [New Year and Counting Cards][908a]     | [Get solution](solutions_folder_2/A_New_Year_and_Counting_Cards.cpp)    | 908A     |
+| 11        | [Find Extra One][900a]                  | [Get solution](solutions_folder_2/A_Find_Extra_One.cpp)                 | 900A     |
+| 12        | [Visiting a Friend][902a]               | [Get solution](solutions_folder_2/A_Visiting_a_Friend.cpp)              | 902A     |
+| 13        | [Carrot Cakes][799a]                    | [Get solution](solutions_folder_2/A_Carrot_Cakes.cpp)                   | 799A     |
 
 <!-- Solution folder 2 end -->
  
@@ -75,8 +86,8 @@
 
   **S. no.**   | **problem**  | **solution** | **code**
 ---------------|--------------|--------------|--------------
- 1 |[Dragons](https://codeforces.com/problemset/problem/230/A)|[Get solution](Solution%20Folder%203/230-A.cpp)|230A
- 2 |[Present from Lena](https://codeforces.com/problemset/problem/118/B)|[Get solution](Solution%20Folder%203/118-B.cpp)|118B
+ 1 |[Dragons](https://codeforces.com/problemset/problem/230/A)|[Get solution](Solutions%20Folder%203/230-A.cpp)|230A
+ 2 |[Present from Lena](https://codeforces.com/problemset/problem/118/B)|[Get solution](Solutions%20Folder%203/118-B.cpp)|118B
 
 <!-- Solution folder 3 end -->
  
@@ -95,5 +106,20 @@
  
  
  
+
+<!----- Links for problems in solution folder 2 ----->
+[1529a]: https://codeforces.com/contest/1529/problem/A
+[1529b]: https://codeforces.com/contest/1529/problem/B
+[102767a]: https://codeforces.com/gym/102767/problem/A
+[1353a]: https://codeforces.com/contest/1353/problem/A
+[1527a]: https://codeforces.com/contest/1527/problem/A
+[25b]: https://codeforces.com/problemset/problem/25/B
+[1194a]: https://codeforces.com/contest/1194/problem/A
+[1186a]: https://codeforces.com/contest/1186/problem/A
+[1173a]: https://codeforces.com/contest/1173/problem/A
+[908a]: https://codeforces.com/contest/908/problem/A
+[900a]: https://codeforces.com/contest/900/problem/A
+[902a]: https://codeforces.com/contest/902/problem/A
+[799a]: https://codeforces.com/contest/799/problem/A
  
- 
+<!-- Links for problems in solution folder 2 end-->
