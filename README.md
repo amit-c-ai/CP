@@ -72,10 +72,10 @@
 | 11        | [Find Extra One][900a]                  | [Get solution](solutions_folder_2/A_Find_Extra_One.cpp)                 | 900A     |
 | 12        | [Visiting a Friend][902a]               | [Get solution](solutions_folder_2/A_Visiting_a_Friend.cpp)              | 902A     |
 | 13        | [Carrot Cakes][799a]                    | [Get solution](solutions_folder_2/A_Carrot_Cakes.cpp)                   | 799A     |
-| 14        | [Mean Inequality][1526a]                | [Get solution](solutions_folder_6780/A_Mean_Inequality.cpp)             | 1526a    |
-| 15        | [I Hate 1111][1526b]                    | [Get solution](solutions_folder_6780/B_I_Hate_1111.cpp)                 | 1526b    |
-| 16        | [Potions (Easy Version)][1526c1]        | [Get solution](solutions_folder_6780/C1_Potions_Easy_Version_.cpp)      | 1526c1   |
-| 17        | [Potions (Hard Version)][1526c2]        | [Get solution](solutions_folder_6780/C2_Potions_Hard_Version_.cpp)      | 1526c2   |
+| 14        | [Mean Inequality][1526a]                | [Get solution](solutions_folder_2/A_Mean_Inequality.cpp)             | 1526a    |
+| 15        | [I Hate 1111][1526b]                    | [Get solution](solutions_folder_2/B_I_Hate_1111.cpp)                 | 1526b    |
+| 16        | [Potions (Easy Version)][1526c1]        | [Get solution](solutions_folder_2/C1_Potions_Easy_Version_.cpp)      | 1526c1   |
+| 17        | [Potions (Hard Version)][1526c2]        | [Get solution](solutions_folder_2/C2_Potions_Hard_Version_.cpp)      | 1526c2   |
 
 <!-- Solution folder 2 end -->
 
