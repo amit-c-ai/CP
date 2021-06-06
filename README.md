@@ -72,10 +72,19 @@
 | 11        | [Find Extra One][900a]                  | [Get solution](solutions_folder_2/A_Find_Extra_One.cpp)                 | 900A     |
 | 12        | [Visiting a Friend][902a]               | [Get solution](solutions_folder_2/A_Visiting_a_Friend.cpp)              | 902A     |
 | 13        | [Carrot Cakes][799a]                    | [Get solution](solutions_folder_2/A_Carrot_Cakes.cpp)                   | 799A     |
-| 14        | [Mean Inequality][1526a]                | [Get solution](solutions_folder_2/A_Mean_Inequality.cpp)             | 1526a    |
-| 15        | [I Hate 1111][1526b]                    | [Get solution](solutions_folder_2/B_I_Hate_1111.cpp)                 | 1526b    |
-| 16        | [Potions (Easy Version)][1526c1]        | [Get solution](solutions_folder_2/C1_Potions_Easy_Version_.cpp)      | 1526c1   |
-| 17        | [Potions (Hard Version)][1526c2]        | [Get solution](solutions_folder_2/C2_Potions_Hard_Version_.cpp)      | 1526c2   |
+| 14        | [Mean Inequality][1526a]                | [Get solution](solutions_folder_2/A_Mean_Inequality.cpp)                | 1526A    |
+| 15        | [I Hate 1111][1526b]                    | [Get solution](solutions_folder_2/B_I_Hate_1111.cpp)                    | 1526B    |
+| 16        | [Potions (Easy Version)][1526c1]        | [Get solution](solutions_folder_2/C1_Potions_Easy_Version_.cpp)         | 1526C1   |
+| 17        | [Potions (Hard Version)][1526c2]        | [Get solution](solutions_folder_2/C2_Potions_Hard_Version_.cpp)         | 1526C2   |
+| 18        | [Game of Life][1523a]                   | [Get solution](solutions_folder_2/A_Game_of_Life.cpp)                   | 1523A    |
+| 19        | [Cut Ribbon][189a]                      | [Get solution](solutions_folder_2/A_Cut_Ribbon.cpp)                     | 189A     |
+| 20        | [Rank List][166a]                       | [Get solution](solutions_folder_2/A_Rank_List.cpp)                      | 166A     |
+| 21        | [Cinema Line][349a]                     | [Get solution](solutions_folder_2/A_Cinema_Line.cpp)                    | 349A     |
+| 22        | [Domino][1523a]                         | [Get solution](solutions_folder_2/A_Domino.cpp)                         | 353A     |
+| 23        | [Cards with Numbers][254a]              | [Get solution](solutions_folder_2/A_Cards_with_Numbers.cpp)             | 254A     |
+| 24        | [Vanya and Lanterns][492b]              | [Get solution](solutions_folder_2/B_Vanya_and_Lanterns.cpp)             | 492B     |
+| 25        | [Array Reodering][1535b]                | [Get solution](solutions_folder_2/B_Array_Reodering.cpp)                | 1535B    |
+| 26        | [Building Permutation][285c]            | [Get solution](solutions_folder_2/C_Building_Permutation.cpp)           | 285C     |
 
 <!-- Solution folder 2 end -->
 
@@ -107,7 +116,6 @@
 <!-- Solution folder 4 end -->
 
  </td></tr> </table>
- 
 
 
 <!----- Links for problems in solution folder 2 ----->
@@ -129,5 +137,14 @@
 [1526b]: https://codeforces.com/contest/1526/problem/B
 [1526c1]: https://codeforces.com/contest/1526/problem/C1
 [1526c2]: https://codeforces.com/contest/1526/problem/C2
+[1523a]: https://codeforces.com/contest/1523/problem/A
+[189a]: https://codeforces.com/contest/189/problem/A
+[166a]: https://codeforces.com/contest/166/problem/A
+[349a]: https://codeforces.com/contest/349/problem/A
+[353a]: https://codeforces.com/contest/353/problem/A
+[254a]: https://codeforces.com/contest/254/problem/A
+[492b]: https://codeforces.com/contest/492/problem/B
+[1535b]: https://codeforces.com/contest/1535/problem/B
+[285c]: https://codeforces.com/contest/285/problem/C
 
 <!-- Links for problems in solution folder 2 end-->
