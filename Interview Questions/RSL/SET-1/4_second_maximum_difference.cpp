@@ -13,18 +13,25 @@ void solve(int arr[], int n){
     for(int i=0; i<n; i++){
         if(arr[i]>max){
             max2 = max;
-            max=arr[i];
+            max = arr[i];
         }
+        else if(arr[i]>max2){
+            max2 = arr[i];
+        }
+
         if(arr[i]<min){
             min2 = min;
             min = arr[i];
+        }
+        else if(arr[i]<min2){
+            min2 = arr[i];
         }
     }
     (max-min2 > max2-min)?(cout<<max-min2):(cout<<max2-min);
 }
 
 int main(){
-    int arr[] = {14,12,70,95,65,22,30};
+    int arr[] = {5, 3, 2, 9, 8, 4, 1};
     int n = sizeof(arr)/sizeof(int);
     solve(arr, n);
     return 0;
