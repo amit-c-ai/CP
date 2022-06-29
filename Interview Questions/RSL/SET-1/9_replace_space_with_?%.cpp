@@ -20,7 +20,7 @@ void solve(string s){
 }
 
 int main(){
-    string s="welcome to geeksforgeeks";
+    string s="welcome to   geeksforgeeks";
     solve(s);
     return 0;
 }
