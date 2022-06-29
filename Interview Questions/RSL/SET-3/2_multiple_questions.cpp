@@ -44,16 +44,21 @@ bool checkPalindrome(string s){
 
 int main(){
     int A[] = {3, 44, 32, 6, 23, 55, 9}, n=sizeof(A)/sizeof(A[0]);
-    evenSum(A, n);
+    evenSum(A, n); cout<<"\n\n";
 
     n=543;
-    decimalToBinary(n);
+    decimalToBinary(n); cout<<"\n\n";
 
     int num=5;
-    table(num);
+    table(num); cout<<"\n\n";
 
     string s="abcba";
-    cout<<"\n"<<checkPalindrome(s);
+    if(checkPalindrome(s)){
+        cout<<"True";
+    }
+    else{
+        cout<<"False";
+    }
 
     return 0;
 }
