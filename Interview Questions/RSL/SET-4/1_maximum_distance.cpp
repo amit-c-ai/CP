@@ -1,4 +1,4 @@
-// Q2 : Maximum distance between two occurrences of the same element in array
+j-i// Q2 : Maximum distance between two occurrences of the same element in array
 // Input : arr[] = {3, 2, 1, 2, 1, 4, 5, 8, 6, 7, 4, 2}
 // // maximum distance for 2 is 11-1 = 10
 // // maximum distance for 1 is 4-2 = 2

@@ -3,23 +3,20 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void solve(int hr, int min){
-    hr += (min/60);
-    hr %= 12;
-    min %= 60;
-    float h = (hr + (float)min/60) * 30;
-    float m = min * 6;
-    float angle = abs(h-m);
-    if(angle>180){
-        cout<<360-angle;
-    }
-    else{
-        cout<<angle;
-    }
-}
-
 int main(){
-    int hr=12, min=15;
-    solve(hr, min);
+    for(int i=4; i>=0; i--){
+    	for(int j=0; j<i; j++){
+    		cout<<"*";
+		}
+		if(i!=0){
+			cout<<endl;	
+		}
+	}
+	for(int i=2; i<=4; i++){
+		for(int j=0; j<i; j++){
+			cout<<"*";
+		}
+		cout<<endl;
+	}
     return 0;
 }
